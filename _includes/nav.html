@@ -2,9 +2,3 @@
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
 </ul>
-<ul class="icons">
-<li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
-<li><a href="https://stackoverflow.com/{{site.stackoverflow}}" class="icon fa-stack-overflow" rel="nofollow"><span class="label">StackOverflow</span></a></li>
-<li><a href="https://linkedin.com/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">Linkedin</span></a></li>
-<li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-</ul>

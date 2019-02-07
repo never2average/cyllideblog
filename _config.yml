@@ -33,15 +33,8 @@ disqus_shortname:   straylogic
 
 # Social
 analytics-id:       UA-122320201-1
-twitter:            Priyesh47765229
-linkedin:           in/priyesh-srivastava-a20779163/
-stackoverflow:      users/10049873/random-user
-github:             straylogic
 
 # personal
-location:           BITS Pilani,K.K.Birla Goa Campus,Goa,India
-email:              priye.sh.sriv2017@gmail.com
-email2:             tanmaydixit1102@gmail.com
 # Gems
 gems:
   - jekyll-mentions
