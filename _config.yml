@@ -1,7 +1,7 @@
 # Site
-title: Stray Logic
+title: Cyllide
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "cyllideblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 safe: true
 defaults:
