@@ -17,7 +17,7 @@
 
 				<!-- Header -->
 				<header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+					<a href="{{ "/" | absolute_url }}" class="logo">Cyllide</a>
 				</header>
 
 
@@ -30,57 +30,9 @@
 				<!-- Main -->
 				<div id="main">
 
-          <article class="post featured">
-            <header class="major">
-              <h2><a href="#">Motivation Behind this Blog</a></h2>
-				<p>
-              	"A person's life is interesting primarily when he had failed, for it's a sign that he tried to surpass himself."
-				</p>
-            </header>
-						<p>
-							Though we cannot solve all real-life problems, the Stray Logic team believes that given the tools and knowledge, the right people can be empowered to change the world for better. The aim of this blog is to establish a closely-knit community of upcoming professionals who have the desire to improve this world.
-						</p>
-						<p>Upcoming articles:</p>
-						<ul>
-							<li>The Making Of:Hexa</li>
-							<li>Web Development Stories #1</li>
-							<li>Intro to Data Science-2</li>
-							<li>Portfolios-with-Python-3</li>
-						</ul>
-						<p>Mail us if you would like to see some topic covered</p>
-						 
-          </article>
-					<section class="posts">
-						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
-							<article>
-								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								<p>{{ post.excerpt }}</p>
-								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-								</ul>
-							</article>
-							{% if mod3 == 0 %}
-							<article>
-								<header>
-									<h2><a href="#">Sponsored</a></h2>
-								</header>
 
-							</article>
-							{% endif %}
-						{% endfor %}
 
-					</section>
 
-					</div>
-
-				<!-- Footer -->
-
-			</div>
 
 			<!-- Scripts -->
 			{% include scripts-main.html %}

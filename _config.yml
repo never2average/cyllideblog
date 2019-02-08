@@ -1,7 +1,7 @@
 # Site
-title: Cyllide
+title: Stray Logic
 locale:             en_US
-baseurl: "cyllideblog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 safe: true
 defaults:
@@ -33,8 +33,15 @@ disqus_shortname:   straylogic
 
 # Social
 analytics-id:       UA-122320201-1
+twitter:            Priyesh47765229
+linkedin:           in/priyesh-srivastava-a20779163/
+stackoverflow:      users/10049873/random-user
+github:             straylogic
 
 # personal
+location:           BITS Pilani,K.K.Birla Goa Campus,Goa,India
+email:              priye.sh.sriv2017@gmail.com
+email2:             tanmaydixit1102@gmail.com
 # Gems
 gems:
   - jekyll-mentions
