@@ -15,11 +15,12 @@ Let's start with a question. "What is the one habit that is common in all rich p
 
 <div class="thumbnail" style="text-align:center;"><img style="width:100%;height:auto;" src ="/images/timevalue.png" />
 <div class="caption" style="font-size:small">The graph shows your net worth if you keep adding Rs.50k annually at 20% of returns.
+<p>
+By year 20 your net worth would reach a staggering 1 crore and by year 30 it would be a staggering 7 crore. That's a 7 times increase in last 10 years of your investment
+</p>
 </div>
 </div>
 <br>
-<p>
-By year 20 your net worth would reach a staggering 1 crore and by year 30 it would be a staggering 7 crore. That's a 7 times increase in last 10 years of your investment</p>
 <p>So what is the power compounding? In layman terms this is called the "snowball effect". This is because an avalanche, before becoming a force so large, just starts with a small snowball with regular addition of snow. This is exactly what compounding is! You just need to set aside a fixed amount for every period, add it to your investment and watch as the magic of money happens.</p>
 
 
