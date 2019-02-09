@@ -22,9 +22,6 @@ It was December 26th 1996, Marvel's owner Ronald perelman filed for it's bankrup
 </p>
 <div style="text-align:center;"><img style="width:100%;height:auto;" src ="https://heroichollywood.com/wp-content/uploads/2018/11/Stan_Lee_Kevin_Feige_Marvel_Studios_Comics.jpg" /></div>
 <p>
-<strong>Maisel magic</strong>
-</p>
-<p>
 Then came David Maisel with the audacious idea of marvel making their own movies.They recieved $525 Milion from Meryll Lynch with it's 10 important characters as a collateral.This was a huge gamble.With this money they bought characters which they have previously sold which included the likes of Iron Man and Hulk and also hired Kevin Fiegel as their president. Their first franchise movie Iron-man was released on May 2 ,2008 and was an instant blockbuster both critically and financially.One year later Disney bought Marvel for a whoppinig $4.2 Billion.Now this is nothing short of a superhero story and for a company 20 years ago that was on the brink of collapse, survived it's worst phases and turned around to be the most profitablefranchise in history. Disney acquiring 21st century fox with characters like deadpool and X-men makes this story more interesting.Don't be surprised if you see these characters in a fusion of the comic universe pretty soon!
 </p>
 <strong>A new mega merger between the X-men and the Avengers to create a unified cinematic universe should not surprise us</strong>
