@@ -3426,7 +3426,7 @@
 		overflow: hidden;
 		padding: 0 2rem 0 0;
 		position: relative;
-		width: calc(100% - 4rem);
+		width: 100%;
 		max-width: 72rem;
 		z-index: 2;
 	}
@@ -3505,6 +3505,8 @@
 		}
 
 			#nav ul.links li {
+				width: 50%;
+				text-align: center;
 				display: block;
 				padding-left: 0;
 			}
