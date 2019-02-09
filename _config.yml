@@ -1,8 +1,8 @@
 # Site
 title: Cyllide
 locale:             en_US
-baseurl: "cyllideblog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "blog.cyllide.com" # the base hostname & protocol for your site
 safe: true
 defaults:
 - scope:

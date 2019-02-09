@@ -1623,7 +1623,7 @@
 	}
 
 	body {
-		background-color: #482cbf;
+		background-image: radial-gradient(#a8516e, #482cbf);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1838,7 +1838,7 @@
 	}
 
 	code {
-		background: rgba(220, 220, 220, 0.25);
+		background: #482cbf;
 		border-color: #eeeeee;
 	}
 
@@ -3067,9 +3067,6 @@
 			width: 100%;
 		}
 
-		body.is-loading #wrapper.fade-in:before {
-			opacity: 1;
-		}
 
 		@media screen and (orientation: portrait) {
 
@@ -3138,7 +3135,7 @@
 		}
 
 		#intro code {
-			background: rgba(255, 255, 255, 0.075);
+			background: #482cbf;
 			border-color: #ffffff;
 		}
 
@@ -3170,7 +3167,7 @@
 			#intro input[type="button"].special,
 			#intro button.special,
 			#intro .button.special {
-				background-color: #ffffff;
+				background-color: #482cbf;
 				box-shadow: none;
 				color: #1e252d !important;
 			}
@@ -3180,7 +3177,7 @@
 				#intro input[type="button"].special:hover,
 				#intro button.special:hover,
 				#intro .button.special:hover {
-					background-color: #18bfef;
+					background-color: #482cbf;
 				}
 
 		#intro h1 {
@@ -3353,7 +3350,7 @@
 		}
 
 		#header code {
-			background: rgba(255, 255, 255, 0.075);
+			background: #482cbf;
 			border-color: #ffffff;
 		}
 
@@ -3422,7 +3419,7 @@
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: rgba(255, 255, 255, 0.175);
+		background: #4c4c4c;
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
