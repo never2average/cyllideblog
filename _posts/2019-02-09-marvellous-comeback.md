@@ -2,10 +2,11 @@
 layout: post
 title:  "Marvellous Comeback"
 date:   2019-02-09
+linkedin_prof: "https://www.linkedin.com/in/prasann-durgumahanti-936286178"
 excerpt: "We all love Marvel right? well maybe not the DC fans, but it cannot be denied that the way they have managed to potray their comic book characters on the big screen is nothing short of a cultural phenomenon."
 summary: "We all love Marvel right? well maybe not the DC fans, but it cannot be denied that the way they have managed to potray their comic book characters on the big screen is nothing short of a cultural phenomenon."
 image: "https://cdn.europosters.eu/image/1300/posters/marvel-universe-i31869.jpg"
-author: Durgumahanti Prasann
+author: Prasann Durgumahanti
 comments: true
 ---
 <p>

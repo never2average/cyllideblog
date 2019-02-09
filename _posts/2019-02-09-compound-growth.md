@@ -2,6 +2,7 @@
 layout: post
 title:  'start early'
 date:   2019-02-09
+linkedin_prof: "https://www.linkedin.com/in/prasann-durgumahanti-936286178"
 excerpt: "The Power of Compounding"
 summary: "Let's start with a question. What is the one habit that is common in all rich people? They invest. It's as simple as that. So what is it about investing that attracts these guys so much?"
 image: "/images/timevalue.png"
