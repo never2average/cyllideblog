@@ -11,7 +11,7 @@ comments: true
 ---
 <p>
 It is safe to say that Marvel Studios has defined film-making in this past decade.
-How can anyone forget the climax of "The Avengers", the heart-touching moment when Tony Stark's is saved and he expresses his desire to have a shawarma, just legendary! 
+How can anyone forget the climax of "The Avengers", the heart-touching moment when Tony Stark is saved and he expresses his desire to have a shawarma, just legendary! 
 </p>
 <p>
 It's hard to imagine that such a legendary studio, once had to go through bankruptcy.Yes! Marvel was a bankrupt company once.
